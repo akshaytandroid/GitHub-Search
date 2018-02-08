@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GITRepoProject</string>
+    <string name="string_no_repos_found">"No Repositories Found..</string>
+    <string name="string_ok">OK</string>
+    <string name="string_no_internet">No Internet Found..</string>
+    <string name="string_search_entry">Enter Repository to Search</string>
+
+</resources>
